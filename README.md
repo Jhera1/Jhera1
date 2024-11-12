@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Justin Armstrong - Full Stack Developer
-    <link rel="stylesheet" href="./styles.css">
-</head>
-<body>
+
     <img src="https://destinationdeluxe.com/wp-content/uploads/2020/05/Sacred-Geometry-Flower-of-Life-Explained-Destination-Deluxe.jpg" alt="Sacred Geometry Flower of Life">
     
-    <h2>Hi there 👋</h2>
+    Hi there 👋
     <p>
         My name is Justin Armstrong, a full-stack developer with a strong foundation in HTML, CSS, JavaScript, and Node.js, and a versatile background that spans software engineering, hardware repair, and even healthcare, showcasing my skills in DOM manipulation, API integration, and user interface design. My experience also includes developing dynamic web apps, such as a Pokémon data site with real-time carousel functionality, and a command-line calculator in Node.js. I’m passionate about solving real-world problems with technology in projects that require creativity and technical expertise.
     </p>
