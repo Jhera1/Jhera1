@@ -3,8 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Justin Armstrong - Full Stack Developer</title>
+   Justin Armstrong - Full Stack Developer
     <link rel="stylesheet" href="./styles.css">
+    <style>
+        body {
+  background-color: black;
+}
+
+img {
+  max-hieght: 300px;
+}
+    </style>
 </head>
 <body>
     <img src="https://destinationdeluxe.com/wp-content/uploads/2020/05/Sacred-Geometry-Flower-of-Life-Explained-Destination-Deluxe.jpg" alt="Sacred Geometry Flower of Life">
