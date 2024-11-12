@@ -1,8 +1,7 @@
 
 <head>
-     <link src="./styles.css"></link>
-     <img src="https://destinationdeluxe.com/wp-content/uploads/2020/05/Sacred-Geometry-Flower-of-Life-Explained-Destination- 
-     Deluxe.jpg"> 
+     <link src=./styles.css></link>
+     <img src="https://destinationdeluxe.com/wp-content/uploads/2020/05/Sacred-Geometry-Flower-of-Life-Explained-Destination-Deluxe.jpg"> 
 </head>
 
 ## Hi there 👋
