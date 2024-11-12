@@ -1,6 +1,6 @@
 <body> 
 <head>
-     <link src=./styles.css></link>
+<link rel="stylesheet" href="./styles.css">     
      <img src="https://destinationdeluxe.com/wp-content/uploads/2020/05/Sacred-Geometry-Flower-of-Life-Explained-Destination-Deluxe.jpg"> 
 </head>
 
